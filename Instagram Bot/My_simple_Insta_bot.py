@@ -4,7 +4,7 @@ from instapy import InstaPy
 #initialisation
 #for a better optimization use headless => it will run the bot without a GUI:
 #session = InstaPy(username='test', password='test', headless_browser=True)
-session = InstaPy(username="jeepgold", password="kamikaz")
+session = InstaPy(username="YOUR_USERNAME", password="YOUR_PASSWORD")
 session.login()
 '''
 #setup all the setting
